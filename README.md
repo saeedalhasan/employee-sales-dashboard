@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Employee Sales Dashboard](EMPLOYEE%20SALES%20DASHBOARD.PNG)
+![Dashboard Overview](dashboard-combined.png)
 
 ## Project Overview
 This project is an Excel-based Employee Sales Dashboard designed to analyze and visualize sales performance data across multiple departments in an organization.
